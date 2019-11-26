@@ -27,6 +27,6 @@ public abstract class Bird {
         this.age = age;
     }
 
-    // méthodes
+    // methodes
     public abstract String sing();
 }
